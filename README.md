@@ -3,7 +3,7 @@
 # FULL STACK DEV <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 #### Sobre mim:<br>
-<div style="max-width: 200px; width: 200px; word-wrap: break-word;">
+<div style="border: 1px solid blue; max-width: 200px; width: 200px; word-wrap: break-word;">
 I'm a software developer who believes in the evolution of technology and staying up to date with the latest trends. I strive to build an excellent global network. <b>I currently work with cryptocurrencies and smart contracts.</b>
 </div>
 
