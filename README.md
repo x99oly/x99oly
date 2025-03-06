@@ -1,4 +1,4 @@
-<img style="margin-top: 40px;" align="right" width="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa256bXQ1aGxvNWEzbmFvY2xvZ21hb204d2w2ZnJwNnB6aDR3YzMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tel4DU3dCiDdVUPhIg/giphy.gif">
+<img style="margin-top: 40px;" align="right" width="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmYwYWNlNjBoZTE3dmJhMXl3YmhjbW93N2g5MjlwOW5qZnM5MXUwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9bTjZrytydVRK/giphy.gif">
 
 # FULL STACK DEV <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
