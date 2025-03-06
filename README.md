@@ -1,8 +1,9 @@
 <img style="margin-top: 40px;" align="right" width="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa256bXQ1aGxvNWEzbmFvY2xvZ21hb204d2w2ZnJwNnB6aDR3YzMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tel4DU3dCiDdVUPhIg/giphy.gif">
 
 # FULL STACK DEV <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+
 <img src="assets/web.png" alt="Logo .net" width="30"/> <img src="assets/csharp.png" alt="Logo C#" width="30"/> <img src="assets/mysql.png" alt="Logo mysql" width="30"/>
-<img src="assets/ts.png" alt="Logo typescript" width="30"/> <img src="assets/html.png" alt="Logo html" width="30"/> <img src="assets/css.png" alt="Logo css" width="30"/>
+<img src="assets/ts.png" alt="Logo typescript" width="30"/> <img src="assets/nextdotjs.svg" alt="Logo bootstrap" width="30"/> <img src="assets/html.png" alt="Logo html" width="30"/> <img src="assets/css.png" alt="Logo css" width="30"/>
 <img src="assets/bs.png" alt="Logo bootstrap" width="30"/>
 
 #### Sobre mim:<br>
