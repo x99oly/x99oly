@@ -1,6 +1,12 @@
-<img style="margin-top: 40px;" align="right" width="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa256bXQ1aGxvNWEzbmFvY2xvZ21hb204d2w2ZnJwNnB6aDR3YzMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tel4DU3dCiDdVUPhIg/giphy.gif">
-
 ![Logo C#](assets/web.png)
+![Logo C#](assets/csharp.png)
+![Logo C#](assets/mysql.png)
+![Logo C#](assets/ts.png)
+![Logo C#](assets/html.png)
+![Logo C#](assets/css.png)
+![Logo C#](assets/bs.png)
+
+<img style="margin-top: 40px;" align="right" width="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa256bXQ1aGxvNWEzbmFvY2xvZ21hb204d2w2ZnJwNnB6aDR3YzMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tel4DU3dCiDdVUPhIg/giphy.gif">
 
 # FULL STACK DEV <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
