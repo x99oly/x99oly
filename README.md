@@ -2,7 +2,7 @@
 
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmYwYWNlNjBoZTE3dmJhMXl3YmhjbW93N2g5MjlwOW5qZnM5MXUwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9bTjZrytydVRK/giphy.gif">
 
-<img src="assets/web.png" alt="Logo .net" width="30"/> <img src="assets/csharp.png" alt="Logo C#" width="30"/> <img src="assets/mysql.png" alt="Logo mysql" width="30"/>
+<img src="assets/web.png" alt="Logo .net" width="50"/> <img src="assets/csharp.png" alt="Logo C#" width="30"/> <img src="assets/mysql.png" alt="Logo mysql" width="30"/>
 <img src="assets/ts.png" alt="Logo typescript" width="30"/> <img src="assets/nextdotjs.svg" alt="Logo bootstrap" width="30"/> <img src="assets/html.png" alt="Logo html" width="30"/> <img src="assets/css.png" alt="Logo css" width="30"/>
 <img src="assets/bs.png" alt="Logo bootstrap" width="30"/>
 
