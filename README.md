@@ -1,6 +1,6 @@
-# FULL STACK DEV <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+<img style="margin-top: 40px;" width="1000px" align="center" src="assets/universe.jpg">
 
-<img style="margin-top: 40px;" width="800px" src="assets/universe.jpg">
+# FULL STACK DEV <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 ### Hello world, here is a brazilian aspirint dev.
 
