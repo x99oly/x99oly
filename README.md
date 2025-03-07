@@ -14,8 +14,17 @@ também gosto de livros* 📖
 # Stacks 🛠️
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  ![ASP.NET](https://img.shields.io/badge/ASP.NET-%230078D7.svg?style=for-the-badge&logo=dotnet&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   
+### Experiências
 
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
 
 🔗 Feel free to connect with me on LinkedIn: <a href="https://www.linkedin.com/in/muca-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 <img src="https://github.com/giovana-simas/giovana-simas/blob/main/snake.svg" alt="Snake animation" />
+
