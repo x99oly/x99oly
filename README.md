@@ -20,6 +20,7 @@ também gosto de livros* 📖
 
 **Full Statck (Estágio)** \
 [**G. Soluções**](https://www.linkedin.com/company/grupo-solucoes-minasgerais/posts/?feedView=all) • Contract \
+11/2024 - Atual
 Linguagens & Tecnologias: `Next.js`, `Node`, `Python`\
 Trabalho automatizando tarefas e otimizando processos.
 
