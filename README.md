@@ -1,12 +1,11 @@
 # FULL STACK DEV <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
-<img style="margin-top: 40px;" align="right" width="400px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmYwYWNlNjBoZTE3dmJhMXl3YmhjbW93N2g5MjlwOW5qZnM5MXUwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9bTjZrytydVRK/giphy.gif">
+<img style="margin-top: 40px;" width="800px" src="assets/universe.jpg">
 
 ### Hello world, here is a brazilian aspirint dev.
 
 Olá, pessoal! Meu nome é Samuel Araujo, sou um graduando em Sistemas de Informação pela PUC Minas com uma que leve por jogos. Entrei no mundo da programação com a promessa de criar aquele SAAS milionário, mas acabei me enroscando em Álgebra linear (não entre em pânico!). Como todo bom aspirante a desenvolvedor, sou fascinado em resolver problemas - um verdadeiro viciado na sensação maravilhosa de finalmente encontrar a solução depois de horas quebrando a cabeça.
 Como filho de brasileiro, brasileiro é, eu vou entre uma pelada e outra, me perdendo um pouco nesse universo absurdamente vasto da tecnologia, tentando ao máximo não começar a vender curso.
-<br><br><br>
 > "A vida é dura e a gente só tem a esperança para suportar"
 
 também gosto de livros* 📖
