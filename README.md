@@ -3,7 +3,7 @@
 
 <img style="margin-top: 40px;" width="1000px" align="center" src="assets/universe.jpg">
 
-### Hello world, here is a brazilian aspirint dev.
+### Hello world, aspirante a dev aqui. 👋
 
 Olá, pessoal! Meu nome é Samuel Araujo, sou um graduando em Sistemas de Informação pela PUC Minas com uma que leve por jogos. Entrei no mundo da programação com a promessa de criar aquele SAAS milionário, mas acabei me enroscando em Álgebra linear (não entre em pânico!). Como todo bom aspirante a desenvolvedor, sou fascinado em resolver problemas - um verdadeiro viciado na sensação maravilhosa de finalmente encontrar a solução depois de horas quebrando a cabeça.
 Como filho de brasileiro, brasileiro é, eu vou entre uma pelada e outra, me perdendo um pouco nesse universo absurdamente vasto da tecnologia, tentando ao máximo não começar a vender curso.
