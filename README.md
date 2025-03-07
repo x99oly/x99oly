@@ -21,18 +21,7 @@ também gosto de livros* 📖
 **Full Statck (Estágio)** \
 [**G. Soluções**](https://www.linkedin.com/company/grupo-solucoes-minasgerais/posts/?feedView=all) • Contract \
 Linguagens & Tecnologias: `Next.js`, `Node`, `Python`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="assets/logo.jpg"/>](https://www.linkedin.com/company/grupo-solucoes-minasgerais/posts/?feedView=all)
-
-**Full Statck (Estágio)** \
-[**G. Soluções**](https://www.linkedin.com/company/grupo-solucoes-minasgerais/posts/?feedView=all) • Contract \
-Linguagens & Tecnologias: `Next.js`, `Node`, `Python`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
-<br/>
+Trabalho automatizando tarefas e otimizando processos.
 
 🔗 Feel free to connect with me on LinkedIn: <a href="https://www.linkedin.com/in/muca-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-
-<img src="https://github.com/giovana-simas/giovana-simas/blob/main/snake.svg" alt="Snake animation" />
 
